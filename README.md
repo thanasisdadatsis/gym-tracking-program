@@ -32,7 +32,7 @@ npm install -g typescript ts-node
 
 2. Run the file:
 
-ts-node gym_inter3.ts
+ts-node gym_logic.ts
 
 Example Output:
 
